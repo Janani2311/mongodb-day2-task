@@ -1,0 +1,71 @@
+{
+    {
+       
+        topic_id:"react_001",
+        present:["usr_001","usr_003","usr_005","usr_008"],
+        absent:["usr_002","usr_004","usr_006","usr_007"]
+        
+    },
+     {
+       
+        topic_id:"react_002",
+        present:["usr_001","usr_004","usr_005","usr_006"],
+        absent:["usr_002","usr_003","usr_007","usr_008"]
+        
+           
+    },
+     {
+       
+        topic_id:"react_003",
+        present:["usr_001","usr_003","usr_005","usr_007"],
+        absent:["usr_002","usr_004","usr_006","usr_008"]
+
+       
+    },
+     {
+       
+        topic_id:"react_004",
+        present:["usr_002","usr_003","usr_005","usr_007"],
+        absent:["usr_001","usr_004","usr_006","usr_008"]
+   
+    },
+     {
+       
+        topic_id:"react_005",
+        present:["usr_002","usr_004","usr_005","usr_008"],
+        absent:["usr_001","usr_003","usr_006","usr_007"]
+        
+    },
+     {
+       
+        topic_id:"react_006",
+        present:["usr_001","usr_003","usr_005","usr_008"],
+        absent:["usr_002","usr_004","usr_006","usr_007"]
+
+    },
+     {
+       
+        topic_id:"react_007",
+        present:["usr_001","usr_003","usr_005","usr_008"],
+        absent:["usr_002","usr_004","usr_006","usr_007"]
+    },
+     {
+       
+        topic_id:"react_008",
+        present:["usr_002","usr_003","usr_008","usr_005"],
+        absent:["usr_001","usr_004","usr_006","usr_007"]
+    },
+     {
+       
+        topic_id:"react_009",
+        present:["usr_001","usr_003","usr_007","usr_008"],
+        absent:["usr_002","usr_004","usr_006","usr_005"]
+
+    },
+     {
+       
+        topic_id:"react_010",
+        present:["usr_003","usr_004","usr_005","usr_006"],
+        absent:["usr_002","usr_001","usr_008","usr_007"]
+    }
+}

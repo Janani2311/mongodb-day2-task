@@ -1,0 +1,22 @@
+{
+    {
+        company_name:"Infoys",
+        date:new Date("2020-10-15"),
+        selected:["usr_001","usr_005"]
+    },
+     {
+        company_name:"Zoho",
+        date:new Date("2020-10-18"),
+        selected:["usr_003","usr_005"]
+    },
+     {
+        company_name:"Capgemini",
+        date:new Date("2020-10-25"),
+        selected:["usr_002","usr_008"]
+    },
+    {
+        company_name:"TCS",
+        date:new Date("2020-11-05"),
+        selected:["usr_004"]
+    }
+}

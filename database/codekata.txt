@@ -1,0 +1,34 @@
+{
+    {
+        usr_id:"usr_001",
+        codekata_points:250
+    },
+     {
+        usr_id:"usr_002",
+        codekata_points:180
+    },
+     {
+        usr_id:"usr_003",
+        codekata_points:300
+    },
+     {
+        usr_id:"usr_004",
+        codekata_points:50
+    },
+     {
+        usr_id:"usr_005",
+        codekata_points:100
+    },
+     {
+        usr_id:"usr_006",
+        codekata_points:75
+    },
+     {
+        usr_id:"usr_007",
+        codekata_points:130
+    },
+     {
+        usr_id:"usr_008",
+        codekata_points:120
+    }
+}

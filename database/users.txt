@@ -1,0 +1,42 @@
+{
+    {
+        _id : "usr_001",
+        user_name:"Rithulya",
+        batch: "FSD57WE-T"
+    },
+    {
+        _id : "usr_002",
+        user_name:"Krishiv",
+        batch: "FSD57WE-T"
+    },
+    {
+        _id : "usr_003",
+        user_name:"Vinodh",
+        batch: "FSD57WE-T"
+    },
+    {
+        _id : "usr_004",
+        user_name:"Nikitha
+        batch: "FSD57WE-T"
+    },
+    {
+        _id : "usr_005",
+        user_name:"Mukunth",
+        batch: "FSD57WE-T"
+    },
+        {
+        _id : "usr_006",
+        user_name:"Vinodh",
+        batch: "FSD59WE-T"
+    },
+    {
+        _id : "usr_007",
+        user_name:"Janani",
+        batch: "FSD59WE-T"
+    },
+    {
+        _id : "usr_008",
+        user_name:"Arun",
+        batch: "FSD59WE-T"
+    }
+}
